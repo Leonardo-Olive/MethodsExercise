@@ -1,0 +1,5 @@
+/Users/leozhitosmac/Downloads/True Coders/repos/MethodsExercise/MethodsExercise/obj/Release/net6.0/MethodsExercise.csproj.AssemblyReference.cache
+/Users/leozhitosmac/Downloads/True Coders/repos/MethodsExercise/MethodsExercise/obj/Release/net6.0/MethodsExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leozhitosmac/Downloads/True Coders/repos/MethodsExercise/MethodsExercise/obj/Release/net6.0/MethodsExercise.AssemblyInfoInputs.cache
+/Users/leozhitosmac/Downloads/True Coders/repos/MethodsExercise/MethodsExercise/obj/Release/net6.0/MethodsExercise.AssemblyInfo.cs
+/Users/leozhitosmac/Downloads/True Coders/repos/MethodsExercise/MethodsExercise/obj/Release/net6.0/MethodsExercise.csproj.CoreCompileInputs.cache
